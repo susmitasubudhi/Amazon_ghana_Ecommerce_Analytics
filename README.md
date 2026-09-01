@@ -1,1 +1,4 @@
 # Amazon_ghana_Ecommerce_Analytics
+## PowerBI Capstone Project | Ghana Market(2015-2020)
+<img width="92" height="28" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657225323042492d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b" src="https://github.com/user-attachments/assets/1c8b602c-af7e-4008-8227-836a0fee2af0" />
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="28" role="img" aria-label="POWER BI"><title>POWER BI</title><g shape-rendering="crispEdges"><rect width="92" height="28" fill="#f2c811"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="460" y="175" textLength="680" font-weight="bold" fill="#333">POWER BI</text></g></svg>
